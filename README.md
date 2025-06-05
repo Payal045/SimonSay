@@ -4,7 +4,7 @@ This is a basic static website built using **HTML**, **CSS**, and **JavaScript**
 
 ## 🔗 Live Demo
 
-👉 [View Website]((https://simonsay-u7rx.onrender.com))
+👉 https://simonsay-u7rx.onrender.com
 
 > Replace the above link with your actual Render deployment URL.
 
